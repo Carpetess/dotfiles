@@ -4,7 +4,7 @@ import = ["/usr/lib/node_modules/alacritty-themes/themes/Gruvbox-Dark.toml"]
 
 
 [font]
-size = 14
+size = 10
 
   [font.bold]
   family = "FiraCode Nerd Font"
