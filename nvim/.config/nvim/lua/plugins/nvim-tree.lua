@@ -7,4 +7,5 @@ return {
 		{ "<C-f>", ":NvimTreeFocus<CR>", "Switch to the File finder"},
 		{ "<C-c>", ":NvimTreeCollapseKeepBuffers<CR>", "Collapse all folders except current path"},
 	},
+
 }
